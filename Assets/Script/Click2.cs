@@ -4,9 +4,11 @@ using UnityEngine;
 
 public class Click2 : MonoBehaviour
 {
-    public Color color;
-    void OnMouseDown()
-    {
-     
-    }
+    
+public string mensaje;
+ 
+void OnMouseDown()
+{
+   Debug.Log(mensaje);
+}
 }
