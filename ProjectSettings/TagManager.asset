@@ -41,3 +41,24 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: fondo
+    uniqueID: 3185040955
+    locked: 0
+  - name: piso
+    uniqueID: 3038865943
+    locked: 0
+  - name: alboles1
+    uniqueID: 2883961553
+    locked: 0
+  - name: arboles2_1
+    uniqueID: 1977321665
+    locked: 0
+  - name: monedas
+    uniqueID: 3096238713
+    locked: 0
+  - name: jugador
+    uniqueID: 2396860351
+    locked: 0
+  - name: arboles2_2
+    uniqueID: 2702755369
+    locked: 0
