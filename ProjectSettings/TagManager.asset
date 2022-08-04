@@ -56,6 +56,9 @@ TagManager:
   - name: monedas
     uniqueID: 3096238713
     locked: 0
+  - name: Monedas
+    uniqueID: 3067223859
+    locked: 0
   - name: jugador
     uniqueID: 2396860351
     locked: 0
