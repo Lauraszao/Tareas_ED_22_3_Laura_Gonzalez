@@ -59,6 +59,15 @@ TagManager:
   - name: Monedas
     uniqueID: 3067223859
     locked: 0
+  - name: obstaculos1_4
+    uniqueID: 235484437
+    locked: 0
+  - name: obstaculos1_2
+    uniqueID: 1342787557
+    locked: 0
+  - name: obstaculos1_7
+    uniqueID: 2093238543
+    locked: 0
   - name: jugador
     uniqueID: 2396860351
     locked: 0
