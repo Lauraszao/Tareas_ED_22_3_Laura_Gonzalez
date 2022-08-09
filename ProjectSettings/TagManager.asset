@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - jugador
+  - enemigos
+  - Monedas
+  - Monedas (1)
   layers:
   - Default
   - TransparentFX
@@ -73,4 +77,10 @@ TagManager:
     locked: 0
   - name: arboles2_2
     uniqueID: 2702755369
+    locked: 0
+  - name: Canvas
+    uniqueID: 4109850259
+    locked: 0
+  - name: obstaculos1_1
+    uniqueID: 2386922231
     locked: 0
