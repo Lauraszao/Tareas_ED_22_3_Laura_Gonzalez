@@ -9,6 +9,8 @@ TagManager:
   - Monedas
   - Obstaculos
   - Undefined
+  - enemigo
+  - Aldea
   layers:
   - Default
   - TransparentFX
@@ -66,6 +68,12 @@ TagManager:
     locked: 0
   - name: Obstaculos
     uniqueID: 2182388257
+    locked: 0
+  - name: Aldea
+    uniqueID: 1944061309
+    locked: 0
+  - name: enemigo
+    uniqueID: 1470219429
     locked: 0
   - name: jugador
     uniqueID: 2396860351
