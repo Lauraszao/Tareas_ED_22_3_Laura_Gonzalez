@@ -22,8 +22,8 @@ public class Colision : MonoBehaviour
     }
 
     private void Update() {
-        //si score recolecta mas o igual a 5 monedas
-        if(score >=23){
+        //si score recolecta mas o igual a 30 monedas
+        if(score >=30){
             // se manda un mensaje de ganaste 
             Debug.Log("Ganaste!");
         }

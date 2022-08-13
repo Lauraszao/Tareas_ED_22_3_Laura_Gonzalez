@@ -7,7 +7,8 @@ TagManager:
   - jugador
   - enemigos
   - Monedas
-  - Monedas (1)
+  - Obstaculos
+  - Undefined
   layers:
   - Default
   - TransparentFX
@@ -63,14 +64,8 @@ TagManager:
   - name: Monedas
     uniqueID: 3067223859
     locked: 0
-  - name: obstaculos1_4
-    uniqueID: 235484437
-    locked: 0
-  - name: obstaculos1_2
-    uniqueID: 1342787557
-    locked: 0
-  - name: obstaculos1_7
-    uniqueID: 2093238543
+  - name: Obstaculos
+    uniqueID: 2182388257
     locked: 0
   - name: jugador
     uniqueID: 2396860351
@@ -80,7 +75,4 @@ TagManager:
     locked: 0
   - name: Canvas
     uniqueID: 4109850259
-    locked: 0
-  - name: obstaculos1_1
-    uniqueID: 2386922231
     locked: 0
