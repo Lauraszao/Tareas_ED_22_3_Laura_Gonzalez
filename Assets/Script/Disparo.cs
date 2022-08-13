@@ -1,3 +1,10 @@
+//Nombre del desarrollador: Laura Gonzalez Sandoval
+//Asignatura: Estructura de datos
+//Profesor: Josué Israel Rivas Diaz
+//Fuente en la que base el script: De las clases del profesor Josué Rivas 
+//Descripción: Este script me va a servir para que el enemigo lanze kunai, y cada cierto tiempo estos desaparecerán
+//el objeto que saldrá es el kunai, el cual va a salir de la mano
+//También se le asigna una pdirección hacia la cual va ser lanzado el kunai
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

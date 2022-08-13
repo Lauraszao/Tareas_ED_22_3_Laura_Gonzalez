@@ -449,7 +449,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: def7ffff26f8ffffcef9ffff14fbffff
+      m_ExpandedIDs: 12fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -766,7 +766,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 17.113249, y: -6.5086827, z: -0.414028}
     speed: 2
-    m_Value: {x: 16.890942, y: -5.735903, z: -0.41823593}
+    m_Value: {x: 17.113249, y: -6.5086827, z: -0.414028}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -818,7 +818,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 8.930186
     speed: 2
-    m_Value: 9.350981
+    m_Value: 8.930186
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1005,7 +1005,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 182
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
