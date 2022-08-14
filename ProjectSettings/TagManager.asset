@@ -11,6 +11,8 @@ TagManager:
   - Undefined
   - enemigo
   - Aldea
+  - enemigo2
+  - kunai
   layers:
   - Default
   - TransparentFX
@@ -72,6 +74,9 @@ TagManager:
   - name: Aldea
     uniqueID: 1944061309
     locked: 0
+  - name: kunai
+    uniqueID: 2381677059
+    locked: 0
   - name: enemigo
     uniqueID: 1470219429
     locked: 0
@@ -83,4 +88,7 @@ TagManager:
     locked: 0
   - name: Canvas
     uniqueID: 4109850259
+    locked: 0
+  - name: enemigo2
+    uniqueID: 1238899361
     locked: 0
