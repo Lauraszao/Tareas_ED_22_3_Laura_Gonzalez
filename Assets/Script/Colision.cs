@@ -23,9 +23,13 @@ public class Colision : MonoBehaviour
 
     private void Update() {
         //si score recolecta mas o igual a 30 monedas
-        if(score >=30){
+        if(score >=35){
             // se manda un mensaje de ganaste 
             Debug.Log("Ganaste!");
+        }
+        if(score ==34)
+        {
+            Debug.Log("¡Perdiste,vuelve a intentarlo!");
         }
     }
  //Se le asigna un private  void , y un collisionenter2d 
@@ -38,7 +42,34 @@ private void OnCollisionEnter2D(Collision2D other)
         Destroy(other.gameObject);
         //aquí se le asigna un comentario el cual aparece en pantalla del juego, arrojando el puntaje 
         Debug.Log("score:"+ score);
+
     }
-}
-}  
+    if (other.gameObject.tag=="enemigo2")
+    {
+        Destroy(other.gameObject);
+        Debug.Log("¡Destruido!");
+    }
+    if (other.gameObject.tag=="enemigo")
+    {
+        Debug.Log("¡Eso dolió pero no ganarás!");
+    }
+    if (other.gameObject.tag=="kunai")
+    {
+        Destroy(other.gameObject);
+    }
+ }
+  void OnCollisionStay2D(Collision2D other)
+  {
+    if (other.gameObject.tag=="Obstaculos")
+    {
+      
+        Debug.Log("Oucht!");
+
+    }
+  }
+ }
+
+
+
+
 

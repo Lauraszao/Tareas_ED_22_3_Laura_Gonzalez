@@ -13,6 +13,7 @@ TagManager:
   - Aldea
   - enemigo2
   - kunai
+  - Canvas
   layers:
   - Default
   - TransparentFX
@@ -86,9 +87,12 @@ TagManager:
   - name: arboles2_2
     uniqueID: 2702755369
     locked: 0
+  - name: enemigo2
+    uniqueID: 1238899361
+    locked: 0
   - name: Canvas
     uniqueID: 4109850259
     locked: 0
-  - name: enemigo2
-    uniqueID: 1238899361
+  - name: Text (TMP)
+    uniqueID: 224545355
     locked: 0
