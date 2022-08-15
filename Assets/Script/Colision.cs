@@ -5,6 +5,7 @@
 //Descripción general: Aquí le asignamos un collision a las monedas, para que cuando mi jugador las toque, estas desaparezcan
 //y al mismo tiempo estas acumulen puntos, los cuales se verán reflejados en la pantalla de juego
 //cuando el jugador recolecte todas las monedas incluyendo la moneda madre, este ganará el juego y arrojara un mensaje de "Ganaste"
+//Se le asignan unos mensajes mas, para cuando mi jugador colisione con algún enemigo, o con los obstaculos 
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
